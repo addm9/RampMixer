@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.env
+.env.*
+.DS_Store
+Dataset/local/
+outputs/
+*.pt
+*.pkl
+*.npz

@@ -1,0 +1,8 @@
+# Versions used for the local demo verification. Python 3.9 or 3.10.
+# For a CPU-only torch wheel, see README.md before installing this file.
+numpy==1.26.4
+scipy==1.11.4
+pandas==1.5.3
+scikit-learn==1.2.2
+numba==0.60.0
+torch==2.2.2
